@@ -8,4 +8,4 @@ Yellow
 Orange
 Red
 
-These are the seven colors of the rainbow
+These are the seven colors of the rainbow.
