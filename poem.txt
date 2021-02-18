@@ -8,5 +8,6 @@ Yellow
 Orange
 Unicorn
 Red
+Pink
 
 These are the seven colors of the rainbow and the unicorn.
