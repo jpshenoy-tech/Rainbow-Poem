@@ -10,5 +10,6 @@ Unicorn
 Pony
 Red
 Pink
+Recycle!
 
 These are the seven colors of the rainbow, unicorn and the pony.
