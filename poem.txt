@@ -1,4 +1,4 @@
-The Rainbow and the Unicorn
+The Rainbow and the Unicorn and the pony
 
 Violet
 Indigo
@@ -7,6 +7,7 @@ Green
 Yellow
 Orange
 Unicorn
+Pony
 Red
 
-These are the seven colors of the rainbow and the unicorn.
+These are the seven colors of the rainbow, unicorn and the pony.
